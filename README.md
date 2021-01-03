@@ -3,7 +3,7 @@ Exercício de recriar este jogo infantil tão famoso utilizando ***HTML5***, ***
 
 :video_game: Brinque com o jogo na íntegra em: https://lucaspmatos.github.io/memory-game
 
-:computer_mouse: Utilize o mouse para fazer a seleção das cartas.
+:computer_mouse: Utilize o mouse para fazer a seleção das cartas!
 
 ## Professora do projeto
 :woman_teacher: [Gabriela Pinheiro](https://github.com/SpruceGabriela)
